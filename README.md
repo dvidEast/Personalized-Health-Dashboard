@@ -1,5 +1,5 @@
 # Vero - Personalized Health Dashboard
-Vero is inspired by the Latin word veritas, meaning "truth."
+Vero is inspired by the Latin word *veritas*, meaning "truth."
 The name reflects the app’s purpose: providing users with honest, clear, and reliable insights into their personal health metrics.
 
 ### Scope
